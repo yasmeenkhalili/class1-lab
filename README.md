@@ -1,1 +1,1 @@
-# class1-lab
+# Class 1 Lab
